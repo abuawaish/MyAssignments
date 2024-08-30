@@ -1,0 +1,4 @@
+Name: Abu, Age: 28, Salary: 50000
+Name: Ayan, Age: 34, Salary: 60000
+Name: Shayan, Age: 25, Salary: 45000
+Name: Serazi, Age: 30, Salary: 52000
